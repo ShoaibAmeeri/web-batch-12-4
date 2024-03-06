@@ -1,0 +1,24 @@
+CSS
+
+types of CSS
+
+1-inline CSS
+2-internal CSS
+3.external
+
+inline css vs enternal css
+inline css more authorized
+
+enternal vs external
+enternal
+
+inline vs external
+inline
+
+selectors
+1-by tagname
+2-by class
+3-by id
+
+03065585665
+Shoaib

@@ -1,0 +1,48 @@
+#para{
+    background-color: bisque;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid green;
+    text-align: inherit;
+
+    text-transform: capitalize;
+    /* text-transform: uppercase;
+    text-transform: lowercase; */
+
+    
+    
+}
+
+h1{
+    text-align: center;
+    text-align: end;
+    text-align: start;
+    /* text-shadow: 3px 4px red; */
+}
+
+a{
+     margin-top: 30px;
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    
+    text-decoration: overline underline line-through ;
+    text-decoration-color: red ;
+
+    text-decoration-style: solid;
+}
+
+/* ul{
+    list-style: none;
+    list-style-type: square;
+} */
+
+.head{
+    font-size: 70px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-size: 50px;
+}
+

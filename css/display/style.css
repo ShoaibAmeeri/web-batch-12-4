@@ -1,0 +1,60 @@
+h1{
+    background-color: aqua;
+    border: 2px solid green;
+    display: inline;
+    margin: 40px;
+
+    
+}
+
+p{
+    display: inline;
+}
+
+li{
+/* border: 2px solid green; */
+display: inline;
+}
+
+/* ul{
+    border: 2px solid red;
+    display: inline;
+} */
+
+ul{
+    width: 100%;
+    background-color: blue;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+
+/* span{
+    border: 2px solid gray;
+    background-color: greenyellow;
+    font-size: x-large;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+} */
+/* 
+div{
+    border: 2px solid gray;
+}
+
+span{
+    border: 2px solid green;
+} */
+
+span{
+    display: inline-block;
+    border: 2px solid green;
+    width: 300px;
+}
